@@ -229,4 +229,4 @@ Image.fromarray(prediction[0]['masks'][0, 0].mul(255).byte().cpu().numpy())
 
 # COMMAND ----------
 
-
+# chanefqo234134
